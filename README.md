@@ -3,6 +3,6 @@ Servidor web para la tarea del módulo ISO.
 
 ~~~
 Links:
-    *(https://angelduranc.github.io/ServidorWeb/)[Presentación]
-    *(trabajoiso.ddns.net)[Servidor web]
+    *[Presentación](https://angelduranc.github.io/ServidorWeb/)
+    *[Servidor web](trabajoiso.ddns.net)
 ~~~
